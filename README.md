@@ -1,2 +1,2 @@
-# Sales Prediction Using Python
- 
+<h5>SALES PREDICTION USING PYTHON</h5>
+<p>Sales prediction involves forecasting the amount of a product thatcustomers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.</p>
